@@ -88,11 +88,12 @@
       <updated>1558301005236</updated>
       <workItem from="1558301007760" duration="1619000" />
       <workItem from="1558302897478" duration="180000" />
+      <workItem from="1558303614065" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1799000" />
+    <option name="totallyTimeSpent" value="1993000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -104,10 +105,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="188" y="67" width="1415" height="944" extended-state="0" />
+    <frame x="166" y="66" width="1415" height="944" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49910873" visible="true" weight="0.25345957" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49910873" visible="true" weight="0.25710124" />
       <window_info id="Structure" order="2" sideWeight="0.50089127" side_tool="true" weight="0.24981792" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -119,7 +120,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39952153" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
